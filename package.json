@@ -19,7 +19,7 @@
     "axios": "^0.24.0",
     "intl": "^1.2.5",
     "react": "16.11.0",
-    "react-native": "0.66.2",
+    "react-native": "0.67.2",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^2.18.1",
